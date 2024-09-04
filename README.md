@@ -33,3 +33,9 @@
 
 
 ## 📝 Getting Started
+
+## 🔗 Links
+<details open>
+  <summary> Trello Board </summary>
+  <a href="https://trello.com/b/rfEowibV/movie-night"> https://trello.com/b/rfEowibV/movie-night </a>
+</details>
