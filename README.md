@@ -14,7 +14,7 @@
 <div id="body" align='center'>
 
 ## 🖨 Description 
-
+Movie Night is a web application that allows users to browse hundreds of movies. Upon entering, users are greeted with a collection of random movies that they can click on for more detailed information. They can also search for specific movies by name or explore films from their favorite genres. Each movie page provides extensive information, helping users discover new films. Enjoy your movie night!
 
  ## 📸 Screenshots  
   |   Description | Screenshot | 
